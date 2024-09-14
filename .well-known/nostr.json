@@ -4,10 +4,9 @@
   },
   "relays": {
     "81d85b6876e0d61213e9ce25b60c3d53eb5caae339b613562786403ac6d2bf26": [
-      "wss://nostr.mutinywallet.com",
+      "wss://nos.lol",
       "wss://relay.snort.social",
       "wss://relay.primal.net",
-      "wss://relay.damus.io"
     ]
   }
 }
